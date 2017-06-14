@@ -1,4 +1,4 @@
-# coding: utf-8
+ # coding: utf-8
 # pylint: disable=too-many-arguments, no-member
 """Functions for constructing recurrent neural networks."""
 import warnings
